@@ -1,1 +1,1 @@
-# Black-Scholes-Dashboard
+# Volatility Risk Premium Dashboard
