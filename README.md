@@ -124,3 +124,19 @@ Install dependencies:
 ```bash
 pip install streamlit numpy pandas scipy matplotlib
 
+---
+
+▶️ Run the Dashboard Locally
+
+Clone the repository, install the dependencies, and run:
+
+streamlit run app.py
+
+---
+
+👤 Author
+
+Ikgalaletse Keatlegile Neo Sebola
+🔗 LinkedIn: https://www.linkedin.com/in/neo-sebola-499b72313/
+
+
