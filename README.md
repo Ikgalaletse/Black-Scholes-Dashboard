@@ -4,9 +4,6 @@ This repository contains an **interactive Streamlit dashboard** that implements 
 
 The dashboard is designed to **explain, visualise, and analyse option pricing behaviour** by allowing users to interactively change model parameters and immediately observe their impact on option prices, sensitivities (Greeks), and probabilities.
 
-🔗 **Live Dashboard:**  
-https://blackschole.streamlit.app/
-
 ---
 
 ## 📌 What the Dashboard Does
@@ -126,3 +123,4 @@ The dashboard follows **best practices for analytical dashboards**:
 Install dependencies:
 ```bash
 pip install streamlit numpy pandas scipy matplotlib
+
