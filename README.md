@@ -131,7 +131,7 @@ pip install streamlit numpy pandas scipy matplotlib
 
 Clone the repository, install the dependencies, and run:
 
-streamlit run app.py
+streamlit run BSStreamlit_app.py
 
 ---
 
@@ -139,6 +139,7 @@ streamlit run app.py
 
 Ikgalaletse Keatlegile Neo Sebola
 🔗 LinkedIn: https://www.linkedin.com/in/neo-sebola-499b72313/
+
 
 
 
