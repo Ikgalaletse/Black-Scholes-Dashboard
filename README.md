@@ -25,16 +25,16 @@ All outputs update **in real time** as inputs are adjusted.
 
 The dashboard calculates **Call and Put prices** using the Black–Scholes formula based on the following inputs:
 
-- Spot price \( S \)
-- Strike price \( K \)
-- Time to maturity \( T \)
-- Volatility \( \sigma \)
-- Risk-free interest rate \( r \)
+- Spot price ($S$)
+- Strike price ($K$)
+- Time to maturity ($T$)
+- Volatility ($\sigma$)
+- Risk-free interest rate ($r$)
 
 It also displays the intermediate variables:
 
-- \( d_1 \)
-- \( d_2 \)
+- $d_1$
+- $d_2$
 
 This provides transparency into how option prices are derived.
 
@@ -138,5 +138,6 @@ streamlit run app.py
 
 Ikgalaletse Keatlegile Neo Sebola
 🔗 LinkedIn: https://www.linkedin.com/in/neo-sebola-499b72313/
+
 
 
