@@ -123,6 +123,7 @@ The dashboard follows **best practices for analytical dashboards**:
 Install dependencies:
 ```bash
 pip install streamlit numpy pandas scipy matplotlib
+```
 
 ---
 
